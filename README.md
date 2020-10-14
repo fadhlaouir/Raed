@@ -8,7 +8,7 @@ Hustler , persistant , open Minded and creative .
 
 ## Find me around the web 🌎: 
 
-- <a href="hhttps://www.linkedin.com/in/fadhlaouiraed/">LinkedIn</a> 💼
+- <a href="https://www.linkedin.com/in/fadhlaouiraed/">LinkedIn</a> 💼
 - <a href="https://www.youracclaim.com/users/raed-fadhlaoui/badges">Acclaim</a> 
 - <a href="https://www.codewars.com/users/fadhlaouir">Codewars</a> 
 - <a href="https://codepen.io/fadhlaouir"> Codepen</a> 🏓
