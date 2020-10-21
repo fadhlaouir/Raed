@@ -3,6 +3,7 @@
 ![image](https://github.com/fadhlaouir/fadhlaouir/blob/main/dino.gif)
 
 I’m an ambitious and motivated Big Data & Business Intelligence student taking Online/evening classes , Front End Developer and Web Integrator working currently as a Technical Mentor & JavaScript Developer . My force of willingness combined with the desire to learn new things gives me, every day, the right energy for carrying out any projects or any problems.
+
 Hustler , persistant , open Minded and creative . 
 
 
