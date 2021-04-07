@@ -2,9 +2,9 @@
 
 ![image](https://github.com/fadhlaouir/fadhlaouir/blob/main/dino.gif)
 
-I’m an ambitious and motivated Big Data & Business Intelligence student taking Online/evening classes , Front End Developer and Web Integrator working currently as a Technical Mentor & JavaScript Developer . My force of willingness combined with the desire to learn new things gives me, every day, the right energy for carrying out any projects or any problems.
+I’m an ambitious and motivated Big Data & Business Intelligence student taking Online classes, JavaScript Developer former Technical Mento. My force of willingness combined with the desire to learn new things gives me, every day, the right energy for carrying out any projects or any problems.
 
-Hustler , persistant , open Minded and creative . 
+Hustler, persistent, open-minded and creative. 
 
 
 ## Find me around the web 🌎: 
