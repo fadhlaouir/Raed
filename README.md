@@ -1,5 +1,7 @@
 # Hi, I'm Raed 👋 💻
 
+![Profile views counter](https://komarev.com/ghpvc/?username=fadhlaouir)
+
 ![image](https://github.com/fadhlaouir/fadhlaouir/blob/main/dino.gif)
 
 An ambitious and skilled Web Developer,  Big Data && Business Intelligence engineer former Technical Mentor. My force of willingness combined with the desire to learn new things gives me, every day, the right energy for carrying out any projects or any problems.
