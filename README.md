@@ -20,7 +20,7 @@ Hustler, persistent, open-minded and creative.
 
 
 
-<a href="https://app.daily.dev/fadhlaouira"><img src="https://api.daily.dev/devcards/8089bf9d84514367b55ea21e3afc55f8.png?r=8py" width="400" alt="Raed Fadhlaoui's Dev Card"/></a>
+<a href="https://app.daily.dev/fadhlaouira"><img src="https://api.daily.dev/devcards/8089bf9d84514367b55ea21e3afc55f8.png?r=vml" width="400" alt="Raed Fadhlaoui's Dev Card"/></a>
 
 
 
