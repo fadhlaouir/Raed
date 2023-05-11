@@ -2,6 +2,8 @@
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=fadhlaouir)
 
+<a href="https://app.daily.dev/fadhlaouira"><img src="https://api.daily.dev/devcards/8089bf9d84514367b55ea21e3afc55f8.png?r=8py" width="400" alt="Raed Fadhlaoui's Dev Card"/></a>
+
 ![image](https://github.com/fadhlaouir/fadhlaouir/blob/main/dino.gif)
 
 An ambitious and skilled Web Developer,  Big Data && Business Intelligence engineer former Technical Mentor. My force of willingness combined with the desire to learn new things gives me, every day, the right energy for carrying out any projects or any problems.
