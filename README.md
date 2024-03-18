@@ -9,7 +9,7 @@
 
 ### About Me
 
-I'm an ambitious and skilled Web Developer, with a background in Big Data and Business Intelligence. Formerly a Technical Mentor, I'm driven by a relentless pursuit of excellence and a thirst for knowledge. Every day, I harness my passion and drive to tackle new challenges and deliver innovative solutions.
+I'm an ambitious and skilled Web Developer, Technical Mentor and Javascript Trainer, with a background in Big Data and Business Intelligence. I'm driven by a relentless pursuit of excellence and a thirst for knowledge. Every day, I harness my passion and drive to tackle new challenges and deliver innovative solutions.
 
 ### Here's what sets me apart:
 
