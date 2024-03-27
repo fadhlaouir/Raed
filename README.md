@@ -7,7 +7,6 @@
 
 ## Welcome to my GitHub portfolio! 🚀
 
-<a href="https://app.daily.dev/fadhlaouir"><img src="https://api.daily.dev/devcards/v2/S7BgiyspexOkA4f2Teb2u.png?r=89s" width="356" alt="Fadhlaoui Raed's Dev Card"/></a>
 
 ### About Me
 
@@ -31,9 +30,5 @@ Connect with me on these platforms:
 Feel free to reach out, connect, or collaborate! Let's build something amazing together! 💪
 
 
-
-
-
-
-
+<a href="https://app.daily.dev/fadhlaouir"><img src="https://api.daily.dev/devcards/v2/S7BgiyspexOkA4f2Teb2u.png?r=89s" width="356" alt="Fadhlaoui Raed's Dev Card"/></a>
 
