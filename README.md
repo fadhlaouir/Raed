@@ -7,6 +7,8 @@
 
 ## Welcome to my GitHub portfolio! 🚀
 
+<a href="https://app.daily.dev/fadhlaouir"><img src="https://api.daily.dev/devcards/v2/S7BgiyspexOkA4f2Teb2u.png?r=89s" width="356" alt="Fadhlaoui Raed's Dev Card"/></a>
+
 ### About Me
 
 I'm an ambitious and skilled Web Developer, Technical Mentor and Javascript Trainer, with a background in Big Data and Business Intelligence. I'm driven by a relentless pursuit of excellence and a thirst for knowledge. Every day, I harness my passion and drive to tackle new challenges and deliver innovative solutions.
