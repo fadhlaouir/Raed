@@ -26,10 +26,6 @@ Connect with me on these platforms:
 - <a href="https://www.credly.com/users/fadhlaouir/badges">Acclaim</a> 
 - <a href="https://www.codewars.com/users/fadhlaouir">Codewars</a> 
 - <a href="https://codepen.io/fadhlaouir"> Codepen</a> 🏓
-- [YouTube](https://www.youtube.com/channel/UCRTIQH1klbiOHR3yPIfZr6g) 📺 (Total Views: 1,143)
-- [Instagram](https://www.instagram.com/fadhlaouir/) ![Instagram](https://img.icons8.com/color/48/000000/instagram-new.png)
-- [Twitter](https://twitter.com/raed_fadhlaoui) ![Twitter](https://img.icons8.com/color/48/000000/twitter--v2.png)
-
 
 Feel free to reach out, connect, or collaborate! Let's build something amazing together! 💪
 
